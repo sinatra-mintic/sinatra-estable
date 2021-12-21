@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="location">Location</string>
+    <string name="temp">Temp</string>
+    <string name="new_york">New York</string>
+    <string name="todo">TODO</string>
+</resources>

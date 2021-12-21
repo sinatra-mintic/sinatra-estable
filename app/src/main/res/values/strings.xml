@@ -1,0 +1,36 @@
+<resources>
+    <!-- App Strings -->
+    <string name="app_name">SINATRA</string>
+
+    <!-- ListFragment Strings -->
+    <string name="title_items">NEW YORK</string>
+
+    <!-- FilterFragment Strings -->
+
+    <!-- DetailFragment Strings -->
+    <string name="title_episodes">Episodes</string>
+    <string name="title_origin">Origin</string>
+    <string name="title_location">Location</string>
+
+    <string name="contact_thumb">Contact Thubmnail Picture</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="detailimage">detailImage</string>
+
+
+    <!-- DetailSettings Strings -->
+    <string name="preferencias">Opciones de configuración</string>
+    <string name="activar_notificaciones">Activar notificaciones</string>
+    <string name="activar_sonido">Activar sonido</string>
+    <string name="guardar">Guardar</string>
+    <string name="string_settings" />
+
+
+    <string name="home">Home</string>
+    <string name="texto">texto</string>
+    <string name="mapa">MAPA</string>
+    <string name="location">Location</string>
+    <string name="temp">Temp</string>
+    <string name="new_york">New York</string>
+    <string name="todo">TODO</string>
+
+</resources>
